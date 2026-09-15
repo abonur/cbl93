@@ -1,7 +1,7 @@
 # CBL 93 – Site du Club de Lutte de Bagnolet
 
-Site du CBL 93 exporté depuis Claude Design, publié sur GitHub Pages :
-https://abonur.github.io/cbl93/
+Site du CBL 93 exporté depuis Claude Design, publié sur GitHub Pages, domaine `cbl93.com` :
+https://cbl93.com/
 
 - `index.html` : page d'accueil (copie de `Accueil.dc.html`)
 - `Accueil.dc.html`, `Cours.dc.html`, `Inscription.dc.html`, `Club.dc.html`, `Contact.dc.html` : les 5 pages (Design Components, rendu côté client)
